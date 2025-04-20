@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ken-Ken-Need
-- 👀 I’m interested in algorithms, competitive coding, web dev, cyber security, and basically anything cool.
-- 🌱 I’m currently deepening my learning of C++ and JavaScript.
+- 👀 I’m interested in algorithms, competitive coding, cyber security, and basically anything cool.
+- 🌱 I’m currently deepening my learning of math and fundatmentals of computer science.
 - 💞️ I’m working hard to get better rankings in CodeForces.
 - 📫 Please reach out to me via email: kg3209@nyu.edu
 
